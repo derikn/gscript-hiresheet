@@ -1,0 +1,36 @@
+Staff JSON:
+
+{ "eenum": "1000",
+	"email": "derik.ng@gobaci.com",
+	"position": "Technology Assistant",
+	"firstName": "Derik",
+	"lastName": "Ng",
+	"homeDepartment": "20",
+	"Schedule" : [
+		['DAY', 0.3125, 0.625, 20],
+		['DAY', 0.3125, 0.625, 20],
+		['DAY', 0.3125, 0.625, 20],
+		['DAY', 0.3125, 0.625, 20],
+		['DAY', 0.3125, 0.625, 20],
+		['DAY', 0.3125, 0.625, 20],
+		['DAY', 0.3125, 0.625, 20],
+		['DAY', 0.3125, 0.625, 20],
+		['DAY', 0.3125, 0.625, 20],
+		['DAY', 0.3125, 0.625, 20],
+		['DAY', 0.3125, 0.625, 20],
+		['DAY', 0.3125, 0.625, 20],
+		['DAY', 0.3125, 0.625, 20],
+		['DAY', 0.3125, 0.625, 20]
+	]
+}
+
+Department JSON
+
+{ "departmentNumber": 20,
+	"departmentName": "CO1",
+	"Staff" : [
+		'derik.ng@gobaci.com',
+		'lilian.shih@gobaci.com',
+		'peter.kerr@gobaci.com',
+	]
+}
